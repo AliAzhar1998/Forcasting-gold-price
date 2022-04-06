@@ -1,1 +1,1 @@
-# Forcasting-gold-price
+# Forecasting-gold-price
